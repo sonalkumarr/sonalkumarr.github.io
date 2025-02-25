@@ -19,7 +19,7 @@ website:
         text: Presentations
       - href: documents/SonalKumar_CV_2025.pdf
         text: CV
-  page-footer: "© 2025 Sonal Kumar. All content licensed under the CC BY 4.0."     
+  page-footer: "© 2025 Sonal Kumar. Licensed under CC BY 4.0."     
   favicon: images/icon.png
 
 format:
