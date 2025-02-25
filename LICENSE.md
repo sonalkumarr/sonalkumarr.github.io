@@ -1,5 +1,6 @@
 This website (sonalkumarr.github.io) is under the copyright of Sonal Kumar (sonalk30th@gmail.com). 
-The CC BY 4.0 license applies to this work. What this means is that you are allowed to share and adapt my work, but must provide appropriate credit when due.
+The CC BY 4.0 license applies to this work. 
+What this means is that you are allowed to share and adapt my work, but must provide appropriate credit wherever due.
 The full legal text is given below.
 
 =======================================================================
