@@ -14,7 +14,7 @@ about:
       url: https://bsky.app/profile/sonalllk.bsky.social
     - icon: github
       url: https://github.com/sonalkumarr
-    - text: "{{< fa envelope >}} Email"
+    - icon: envelope
       url: mailto:sonal.kumar@jax.org
     - icon: "https://cdn.simpleicons.org/orcid/228b22"
       url: https://orcid.org/my-orcid?orcid=0000-0002-8689-0459
