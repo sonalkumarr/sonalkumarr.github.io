@@ -1,0 +1,5 @@
+/* css styles */
+span.navbar-title:hover {
+  color: mistyrose;
+  transition-duration: 0.5s;
+}

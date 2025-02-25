@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Sonal Kumar"
+  site-url: https://sonalkumarr.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: education.qmd
+        text: Education
+      - href: research.qmd
+        text: Research
+      - href: updates.qmd
+        text: Updates
+      - href: presentations.qmd
+        text: Presentations
+      - href: documents/SonalKumar_CV_2025.pdf
+        text: CV
+  page-footer: "© 2025 Sonal Kumar. All rights reserved."     
+  favicon: images/icon.png
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    linkcolor: darkred
+    include-in-header: 
+      text: |
+        <script src="https://cdn.simpleicons.org"></script>
+
+editor: visual
+
