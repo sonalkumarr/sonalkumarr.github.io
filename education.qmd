@@ -2,17 +2,56 @@
 title: "Education"
 ---
 
-### Doctor of Philosophy in Neuroscience
+### 🧠 Doctor of Philosophy in Neuroscience
 
-*The Jackson Laboratory (Bar Harbor, ME) and Tufts University, Graduate School of Biomedical Sciences 
-(Boston, MA)* (September 2022 - Present)
+<span class="accent">*The Jackson Laboratory (Bar Harbor, ME) and Tufts University, Graduate School of Biomedical Sciences (Boston, MA)*</span>
 
-### Master of Science in Biotechnology and Bioinformatics
+**[September 2022 - Present]**
 
-*Institute of Bioinformatics and Applied Biotechnology (Bengaluru, India)* 
-(August 2020 - July 2022)
+|         **Advisor:** [Dr. Gregory W. Carter](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab)
 
-### Bachelor of Science in Biotechnology
+|         **Thesis Advisory Committee:** Dr. Giuseppina Tesco, Dr. Mary Teena Joy, Dr. Vivek Kumar
 
-*St. Xavier's College (Ahmedabad, India)* 
-(June 2019 - September 2020)
+|
+
+|         **Relevant coursework:**
+|           - Advanced topics in Biostatistics
+|           - Essentials in Biomedical Statistics & Computational Biology
+|           - Neurobiology of Disease
+
+
+### 💻 Master of Science in Biotechnology and Bioinformatics
+
+<span class="accent">*Institute of Bioinformatics and Applied Biotechnology (Bengaluru, India)*</span>
+
+**[August 2020 - July 2022]**
+
+|         **Thesis:** Analyzing the sex-dependent transcriptional landscape of the
+|                     Alzheimer’s disease brain 
+
+|         **Advisor:** [Dr. Bibha Choudhary](https://www.ibab.ac.in/research/dr-bibha-choudhary/) 
+
+|         **Relevant coursework:**
+|           - Biostatistics and R
+|           - Systems Biology
+|           - Data Analysis in Genomics and Transcriptomics
+|           - Structural Bioinformatics and Drug Design
+
+### 🧬 Bachelor of Science in Biotechnology
+
+<span class="accent">*St. Xavier's College (Ahmedabad, India)*</span>
+
+**[June 2019 - September 2020]**
+
+|         **Thesis:** Studying the effect of HSP16.2 overexpression on the $\beta$-amyloid 
+|                     protein aggregation in transgenic *Caenorhabditis elegans* CL2006
+
+
+|         **Advisor:** Dr. Shital Doshi
+
+|         **Relevant coursework:**
+|           - Biostatistics
+|           - Basics of Bioinformatics
+|           - Animal Biotechnology
+|           - Genetics
+|           - Immunology

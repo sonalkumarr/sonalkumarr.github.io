@@ -2,6 +2,59 @@
 title: "Presentations"
 ---
 
-### Talks
+## Talks
 
-### Posters
+### 2025
+
+* “**Potentially heritable biomarkers of neurodegeneration in a marmoset model of Alzheimer’s disease"**
+
+    <span class="accent">*IEEE Women in Bioinformatics Workshop (WIBI) 2025, New Haven, CT, USA*</span>
+    
+    **Sonal Kumar**, Catrina Spruce, Annat Haber, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter *[February 2025]*
+    
+
+## Posters
+
+### 2025
+
+* **"Genetic associations of plasma biomarkers of neurodegeneration in a population of laboratory marmosets"**
+
+    <span class="accent">*Alzheimer’s Association International Conference (AAIC) 2025, Toronto, Canada*</span>
+
+    **Sonal Kumar**, Annat Haber, Catrina Spruce, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter *[July 2025]*  
+
+### 2024
+
+* **"Potentially heritable biomarkers of neurodegeneration in a marmoset model of Alzheimer’s disease"**
+
+    <span class="accent">*Alzheimer’s Association International Conference (AAIC) 2024, Philadelphia, PA, USA*</span>
+
+    **Sonal Kumar**, Catrina Spruce, Annat Haber, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter *[July 2024]*  
+    
+    <a href="https://doi.org/10.1002/alz.090952" class="btn btn-outline-primary">Abstract</a>
+
+### 2022
+
+* **"Investigating the role of the noncanonical human small heat shock protein HSPB7 in Alzheimer’s disease"**
+
+    <span class="accent">*IBAB Graduate Research Poster Symposium, IBAB, Bengaluru, India*</span>
+    
+    **Sonal Kumar**, Bibha Choudhary *[July 2022]* 
+
+### 2020
+
+* **"Studying the effect of HSP16.2 overexpression on $\beta$-amyloid protein aggregation in transgenic *Caenorhabditis elegans* CL2006"**
+
+    <span class="accent">*Present-Day Biology: Impact of Research at Molecular and Cellular Level. 
+National conference, Ahmedabad, India. Presented under the theme ‘Diseases and Health’.*</span>
+    
+    Pavan Matani, **Sonal Kumar**, Akshit Jain, Lavanya Lulla, Shital Doshi *[January 2020]*  	
+
+### 2019
+
+* **"Biofortified Crops as a Possible Solution to Vitamin-A Deficiency in Developing Nations"**
+
+    <span class="accent">*Present-Day Biology: A Bastion for Social and Sustainable Development. 
+International conference, Ahmedabad, India. Presented under the theme ‘Interventions in Nutrition and Agriculture’.*</span>
+
+    **Sonal Kumar**, Payal Varandani, Lavanya Lulla *[January 2019]*  

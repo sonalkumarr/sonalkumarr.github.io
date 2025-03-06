@@ -3,3 +3,13 @@ span.navbar-title:hover {
   color: mistyrose;
   transition-duration: 0.5s;
 }
+
+/*added more weight to bold since the default didn't work*/
+strong, b {
+  font-weight: bold !important;
+}
+
+/*creating accent styling*/
+.accent {
+    color: darkred;
+}

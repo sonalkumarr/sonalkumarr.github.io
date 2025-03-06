@@ -1,6 +1,6 @@
 ---
 title: "Sonal Kumar"
-subtitle: "Neuroscience PhD Candidate"
+subtitle: <span class="accent">Neuroscience PhD Candidate</span>
 
 image: images/avatar.png
 about: 
@@ -32,10 +32,15 @@ On this website, you can find updates on my educational experiences, professiona
 
 ## Research interests
 
--   **Alzheimer's disease**
--   **Computational biology**
--   **Statistical genetics**
+-   Alzheimer's disease
+-   Computational biology
+-   Statistical genetics
+-   Multiomics
 
 ## Hobbies
 
 When I am not in the lab, you can find me looking for new (*read: easy*) trails to hike in Acadia or starting a new creative project. This past year alone, I've tried my hand at many crafts, ranging from pottery to gem painting, even crocheting!
+
+## News
+
+You can find the latest updates about me [here](updates.html)!

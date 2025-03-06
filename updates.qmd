@@ -1,3 +1,35 @@
 ---
 title: "Updates"
 ---
+
+### 2025
+
+* My abstract originally submitted to the **IEEE Women in Bioinformatics (WIBI) 2025** Workshop to be held on February 6-7, 2024, in New Haven, CT, USA for a poster presentation was scored highly and was accepted as an oral presentation instead!
+
+* I was nominated to be spotlighted for a student feature by my school! Read about my experience in the program [here](https://gsbs.tufts.edu/news-events/news/sonal-kumar-phd-candidate-neuroscience-jackson-laboratory).
+
+### 2024
+
+* I now serve as **Vice President** for the **Tufts Computational Biology Group**. In this role, I will help organize workshops and special sessions, invite external speakers, and help peers with coding challenges. 
+
+* I presented preliminary findings in the first ever poster from my PhD research at the **Alzheimer's Association International Conference** (AAIC) held in July, **2024**, in Philadelphia, PA, USA.  
+
+    ![Presenting my poster at AAIC24!](images/AAIC24_poster.jpg)
+
+* I have successfully passed my Qualifying Examination and am now officially a PhD Candidate!
+
+### 2023
+
+* I attended the Marmoset Bioscience Symposium to hear more from researchers in the field! This was held on November 9, 2023, in Washington DC, USA.
+
+* For distinguished academic performance during my master's degree, I received the **Prime Minister's Scholarship for Best Female Student** for the class of 2022, and was awarded 25,000 rupees.
+
+* After completing my rotations in the [Carter](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab), [Pera](https://www.jax.org/research-and-faculty/research-labs/the-pera-lab), and [Joy](https://www.jax.org/research-and-faculty/research-labs/the-joy-lab) labs, I've decided to join the **Carter lab**, where I will utilize computational approaches to investigate Alzheimer's disease pathology using the common marmoset as a model system by integrating multiomics data.
+
+### 2022
+
+* I have graduated with my MSc in Biotechnology and Bioinformatics from [IBAB](ibab.ac.in)! Next, I am moving to [the Jackson Laboratory](jax.org) to begin my PhD in Neuroscience through Tufts University!
+
+* My master's thesis research officially ends with the Graduate Research Symposium showcasing the research done by the class of 2022!
+
+    

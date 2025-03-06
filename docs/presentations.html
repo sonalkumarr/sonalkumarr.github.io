@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script src="https://cdn.simpleicons.org"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -111,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./documents/SonalKumar_CV_2025.pdf"> 
+    <a class="nav-link" href="./documents/SonalKumar_CV_Feb2025.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -130,8 +159,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#talks" id="toc-talks" class="nav-link active" data-scroll-target="#talks">Talks</a></li>
-  <li><a href="#posters" id="toc-posters" class="nav-link" data-scroll-target="#posters">Posters</a></li>
+  <li><a href="#talks" id="toc-talks" class="nav-link active" data-scroll-target="#talks">Talks</a>
+  <ul class="collapse">
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2025</a></li>
+  </ul></li>
+  <li><a href="#posters" id="toc-posters" class="nav-link" data-scroll-target="#posters">Posters</a>
+  <ul class="collapse">
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2025</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2024</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2022</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2020</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2019</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -157,13 +196,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="talks" class="level3">
-<h3 class="anchored" data-anchor-id="talks">Talks</h3>
+<section id="talks" class="level2">
+<h2 class="anchored" data-anchor-id="talks">Talks</h2>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">2025</h3>
+<ul>
+<li><p>“<strong>Potentially heritable biomarkers of neurodegeneration in a marmoset model of Alzheimer’s disease”</strong></p>
+<p><span class="accent"><em>IEEE Women in Bioinformatics Workshop (WIBI) 2025, New Haven, CT, USA</em></span></p>
+<p><strong>Sonal Kumar</strong>, Catrina Spruce, Annat Haber, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter <em>[February 2025]</em></p></li>
+</ul>
 </section>
-<section id="posters" class="level3">
-<h3 class="anchored" data-anchor-id="posters">Posters</h3>
+</section>
+<section id="posters" class="level2">
+<h2 class="anchored" data-anchor-id="posters">Posters</h2>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2025</h3>
+<ul>
+<li><p><strong>“Genetic associations of plasma biomarkers of neurodegeneration in a population of laboratory marmosets”</strong></p>
+<p><span class="accent"><em>Alzheimer’s Association International Conference (AAIC) 2025, Toronto, Canada</em></span></p>
+<p><strong>Sonal Kumar</strong>, Annat Haber, Catrina Spruce, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter <em>[July 2025]</em></p></li>
+</ul>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">2024</h3>
+<ul>
+<li><p><strong>“Potentially heritable biomarkers of neurodegeneration in a marmoset model of Alzheimer’s disease”</strong></p>
+<p><span class="accent"><em>Alzheimer’s Association International Conference (AAIC) 2024, Philadelphia, PA, USA</em></span></p>
+<p><strong>Sonal Kumar</strong>, Catrina Spruce, Annat Haber, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter <em>[July 2024]</em></p>
+<p><a href="https://doi.org/10.1002/alz.090952" class="btn btn-outline-primary">Abstract</a></p></li>
+</ul>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">2022</h3>
+<ul>
+<li><p><strong>“Investigating the role of the noncanonical human small heat shock protein HSPB7 in Alzheimer’s disease”</strong></p>
+<p><span class="accent"><em>IBAB Graduate Research Poster Symposium, IBAB, Bengaluru, India</em></span></p>
+<p><strong>Sonal Kumar</strong>, Bibha Choudhary <em>[July 2022]</em></p></li>
+</ul>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">2020</h3>
+<ul>
+<li><p><strong>“Studying the effect of HSP16.2 overexpression on <span class="math inline">\(\beta\)</span>-amyloid protein aggregation in transgenic <em>Caenorhabditis elegans</em> CL2006”</strong></p>
+<p><span class="accent"><em>Present-Day Biology: Impact of Research at Molecular and Cellular Level. National conference, Ahmedabad, India. Presented under the theme ‘Diseases and Health’.</em></span></p>
+<p>Pavan Matani, <strong>Sonal Kumar</strong>, Akshit Jain, Lavanya Lulla, Shital Doshi <em>[January 2020]</em></p></li>
+</ul>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">2019</h3>
+<ul>
+<li><p><strong>“Biofortified Crops as a Possible Solution to Vitamin-A Deficiency in Developing Nations”</strong></p>
+<p><span class="accent"><em>Present-Day Biology: A Bastion for Social and Sustainable Development. International conference, Ahmedabad, India. Presented under the theme ‘Interventions in Nutrition and Agriculture’.</em></span></p>
+<p><strong>Sonal Kumar</strong>, Payal Varandani, Lavanya Lulla <em>[January 2019]</em></p></li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

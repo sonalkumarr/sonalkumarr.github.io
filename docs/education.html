@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script src="https://cdn.simpleicons.org"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -111,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./documents/SonalKumar_CV_2025.pdf"> 
+    <a class="nav-link" href="./documents/SonalKumar_CV_Feb2025.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -130,9 +159,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#doctor-of-philosophy-in-neuroscience" id="toc-doctor-of-philosophy-in-neuroscience" class="nav-link active" data-scroll-target="#doctor-of-philosophy-in-neuroscience">Doctor of Philosophy in Neuroscience</a></li>
-  <li><a href="#master-of-science-in-biotechnology-and-bioinformatics" id="toc-master-of-science-in-biotechnology-and-bioinformatics" class="nav-link" data-scroll-target="#master-of-science-in-biotechnology-and-bioinformatics">Master of Science in Biotechnology and Bioinformatics</a></li>
-  <li><a href="#bachelor-of-science-in-biotechnology" id="toc-bachelor-of-science-in-biotechnology" class="nav-link" data-scroll-target="#bachelor-of-science-in-biotechnology">Bachelor of Science in Biotechnology</a></li>
+  <li><a href="#doctor-of-philosophy-in-neuroscience" id="toc-doctor-of-philosophy-in-neuroscience" class="nav-link active" data-scroll-target="#doctor-of-philosophy-in-neuroscience">🧠 Doctor of Philosophy in Neuroscience</a></li>
+  <li><a href="#master-of-science-in-biotechnology-and-bioinformatics" id="toc-master-of-science-in-biotechnology-and-bioinformatics" class="nav-link" data-scroll-target="#master-of-science-in-biotechnology-and-bioinformatics">💻 Master of Science in Biotechnology and Bioinformatics</a></li>
+  <li><a href="#bachelor-of-science-in-biotechnology" id="toc-bachelor-of-science-in-biotechnology" class="nav-link" data-scroll-target="#bachelor-of-science-in-biotechnology">🧬 Bachelor of Science in Biotechnology</a></li>
   </ul>
 </nav>
     </div>
@@ -159,16 +188,43 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="doctor-of-philosophy-in-neuroscience" class="level3">
-<h3 class="anchored" data-anchor-id="doctor-of-philosophy-in-neuroscience">Doctor of Philosophy in Neuroscience</h3>
-<p><em>The Jackson Laboratory (Bar Harbor, ME) and Tufts University, Graduate School of Biomedical Sciences (Boston, MA)</em> (September 2022 - Present)</p>
+<h3 class="anchored" data-anchor-id="doctor-of-philosophy-in-neuroscience">🧠 Doctor of Philosophy in Neuroscience</h3>
+<p><span class="accent"><em>The Jackson Laboratory (Bar Harbor, ME) and Tufts University, Graduate School of Biomedical Sciences (Boston, MA)</em></span></p>
+<p><strong>[September 2022 - Present]</strong></p>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Advisor:</strong> <a href="https://www.jax.org/research-and-faculty/research-labs/the-carter-lab">Dr.&nbsp;Gregory W. Carter</a></div>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Thesis Advisory Committee:</strong> Dr.&nbsp;Giuseppina Tesco, Dr.&nbsp;Mary Teena Joy, Dr.&nbsp;Vivek Kumar</div>
+<div class="line-block"></div>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Relevant coursework:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Advanced topics in Biostatistics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Essentials in Biomedical Statistics &amp; Computational Biology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Neurobiology of Disease</div>
 </section>
 <section id="master-of-science-in-biotechnology-and-bioinformatics" class="level3">
-<h3 class="anchored" data-anchor-id="master-of-science-in-biotechnology-and-bioinformatics">Master of Science in Biotechnology and Bioinformatics</h3>
-<p><em>Institute of Bioinformatics and Applied Biotechnology (Bengaluru, India)</em> (August 2020 - July 2022)</p>
+<h3 class="anchored" data-anchor-id="master-of-science-in-biotechnology-and-bioinformatics">💻 Master of Science in Biotechnology and Bioinformatics</h3>
+<p><span class="accent"><em>Institute of Bioinformatics and Applied Biotechnology (Bengaluru, India)</em></span></p>
+<p><strong>[August 2020 - July 2022]</strong></p>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Thesis:</strong> Analyzing the sex-dependent transcriptional landscape of the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alzheimer’s disease brain</div>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Advisor:</strong> <a href="https://www.ibab.ac.in/research/dr-bibha-choudhary/">Dr.&nbsp;Bibha Choudhary</a></div>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Relevant coursework:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Biostatistics and R<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Systems Biology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Data Analysis in Genomics and Transcriptomics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Structural Bioinformatics and Drug Design</div>
 </section>
 <section id="bachelor-of-science-in-biotechnology" class="level3">
-<h3 class="anchored" data-anchor-id="bachelor-of-science-in-biotechnology">Bachelor of Science in Biotechnology</h3>
-<p><em>St.&nbsp;Xavier’s College (Ahmedabad, India)</em> (June 2019 - September 2020)</p>
+<h3 class="anchored" data-anchor-id="bachelor-of-science-in-biotechnology">🧬 Bachelor of Science in Biotechnology</h3>
+<p><span class="accent"><em>St.&nbsp;Xavier’s College (Ahmedabad, India)</em></span></p>
+<p><strong>[June 2019 - September 2020]</strong></p>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Thesis:</strong> Studying the effect of HSP16.2 overexpression on the <span class="math inline">\(\beta\)</span>-amyloid<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;protein aggregation in transgenic <em>Caenorhabditis elegans</em> CL2006</div>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Advisor:</strong> Dr.&nbsp;Shital Doshi</div>
+<div class="line-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Relevant coursework:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Biostatistics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Basics of Bioinformatics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Animal Biotechnology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Genetics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Immunology</div>
 
 
 </section>
