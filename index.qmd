@@ -8,8 +8,6 @@ about:
   links: 
     - text: "{{< fa brands linkedin >}}"
       url: https://www.linkedin.com/in/sonalkumarr/
-    - text: "{{< fa brands x-twitter >}}"
-      url: https://x.com/sonalllk  
     - text: "{{< fa brands bluesky >}}"
       url: https://bsky.app/profile/sonalllk.bsky.social
     - text: "{{< fa brands github >}}"
@@ -24,7 +22,7 @@ about:
 
 ## Bio
 
-I am a third-year PhD candidate in the Neuroscience program at [the Jackson Laboratory](https://www.jax.org/people/sonal-kumar) in collaboration with [Tufts University](https://gsbs.tufts.edu/people/student/sonal-kumar). I am carrying out my thesis research in the [Carter lab](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab), where I leverage high-performance computing environments and statistical modeling to analyze integrated multiomics data in order to study Alzheimer's disease.
+I am a fourth-year PhD candidate in the Neuroscience program at [the Jackson Laboratory](https://www.jax.org/people/sonal-kumar) in collaboration with [Tufts University](https://gsbs.tufts.edu/people/student/sonal-kumar). I am carrying out my thesis research in the [Carter lab](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab), where I leverage high-performance computing environments and statistical modeling to analyze integrated multiomics data in order to study Alzheimer's disease.
 
 Prior to beginning my PhD, I did my masters in Biotechnology and Bioinformatics from the [Institute of Bioinformatics and Applied Biotechnology](ibab.ac.in), after getting a bachelor of science in Biotechnology from [St. Xavier's College, Ahmedabad](sxca.edu.in).
 
@@ -39,8 +37,9 @@ On this website, you can find updates on my educational experiences, professiona
 
 ## Hobbies
 
-When I am not in the lab, you can find me looking for new (*read: easy*) trails to hike in Acadia or starting a new creative project. This past year alone, I've tried my hand at many crafts, ranging from pottery to gem painting, even crocheting!
+When I am not in the lab, you can find me looking for new (*read: easy*) trails to hike in Acadia or starting a new creative project. 
 
 ## News
 
 You can find the latest updates about me [here](updates.html)!
+
