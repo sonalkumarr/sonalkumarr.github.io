@@ -13,7 +13,7 @@ title: "Presentations"
     **Sonal Kumar**, Catrina Spruce, Annat Haber, Laura Schultz, Hasi Huhe, Takeshi Murai, Sang-Ho Choi, Stephanie Hachem, Yongshan Mou, Seung-Kwon Ha, Jung Eun Park, Lauren Bailey, Lauren Mongeau, Andrew DeSana, Brianne Stein, Lauren K Hayrynen Schaeffer, Gregg E Homanics, Afonso C Silva, Stacey J Sukoff Rizzo, Gregory W Carter *\[February 2025\]*
 
     <a href="https://ieeexplore.ieee.org/document/11115210" class="btn btn-outline-primary">Abstract</a>
-    
+
 ## Posters
 
 ### 2026
@@ -45,13 +45,12 @@ title: "Presentations"
     **Sonal Kumar**, Annat Haber, Catrina Spruce, MARMO-AD Consortium, Diego Szczupak, Gregg Homanics, Afonso Silva, Stacey J. Sukoff Rizzo, Gregory W. Carter *\[July 2025\]*
 
     <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70855_103724" class="btn btn-outline-primary">Abstract</a>
-    
+
 -   **"Genetic associations with plasma beta-amyloid peptides in a population of laboratory marmosets"**
 
     [*Alzheimer’s Disease Gordon Research Conference (GRC) 2025, Ventura, CA, USA*]{.accent}
 
     **Sonal Kumar**, Annat Haber, Catrina Spruce, MARMO-AD Consortium, Diego Szczupak, Gregg Homanics, Afonso Silva, Stacey J. Sukoff Rizzo, Gregory W. Carter *\[June 2025\]*
-
 
 -   **"Identifying genetic contributors to Corpus Callosum Dysgenesis (CCD) in a population of laboratory marmosets"**
 
