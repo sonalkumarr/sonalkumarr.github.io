@@ -4,32 +4,31 @@ title: "Education"
 
 ### 🧠 Doctor of Philosophy in Neuroscience
 
-<span class="accent">*The Jackson Laboratory (Bar Harbor, ME) and Tufts University, Graduate School of Biomedical Sciences (Boston, MA)*</span>
+[*The Jackson Laboratory (Bar Harbor, ME) and Tufts University, Graduate School of Biomedical Sciences (Boston, MA)*]{.accent}
 
-**[September 2022 - Present]**
+**\[September 2022 - Present\]**
 
 |         **Advisor:** [Dr. Gregory W. Carter](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab)
 
 |         **Thesis Advisory Committee:** Dr. Giuseppina Tesco, Dr. Mary Teena Joy, Dr. Vivek Kumar
 
-|
+| 
 
 |         **Relevant coursework:**
 |           - Advanced topics in Biostatistics
 |           - Essentials in Biomedical Statistics & Computational Biology
 |           - Neurobiology of Disease
 
-
 ### 💻 Master of Science in Biotechnology and Bioinformatics
 
-<span class="accent">*Institute of Bioinformatics and Applied Biotechnology (Bengaluru, India)*</span>
+[*Institute of Bioinformatics and Applied Biotechnology (Bengaluru, India)*]{.accent}
 
-**[August 2020 - July 2022]**
+**\[August 2020 - July 2022\]**
 
 |         **Thesis:** Analyzing the sex-dependent transcriptional landscape of the
-|                     Alzheimer’s disease brain 
+|                     Alzheimer’s disease brain
 
-|         **Advisor:** [Dr. Bibha Choudhary](https://www.ibab.ac.in/research/dr-bibha-choudhary/) 
+|         **Advisor:** [Dr. Bibha Choudhary](https://www.ibab.ac.in/research/dr-bibha-choudhary/)
 
 |         **Relevant coursework:**
 |           - Biostatistics and R
@@ -39,13 +38,12 @@ title: "Education"
 
 ### 🧬 Bachelor of Science in Biotechnology
 
-<span class="accent">*St. Xavier's College (Ahmedabad, India)*</span>
+[*St. Xavier's College (Ahmedabad, India)*]{.accent}
 
-**[June 2019 - September 2020]**
+**\[June 2019 - September 2020\]**
 
-|         **Thesis:** Studying the effect of HSP16.2 overexpression on the $\beta$-amyloid 
+|         **Thesis:** Studying the effect of HSP16.2 overexpression on the $\beta$-amyloid
 |                     protein aggregation in transgenic *Caenorhabditis elegans* CL2006
-
 
 |         **Advisor:** Dr. Shital Doshi
 

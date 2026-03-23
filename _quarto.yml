@@ -17,9 +17,9 @@ website:
         text: Updates
       - href: presentations.qmd
         text: Presentations
-      - href: documents/SonalKumar_CV_Feb2025.pdf
+      - href: documents/SonalKumar_CV_March2026.pdf
         text: CV
-  page-footer: "© 2025 Sonal Kumar. Licensed under CC BY 4.0."     
+  page-footer: "© 2026 Sonal Kumar. Licensed under CC BY 4.0."     
   favicon: images/icon.png
 
 format:

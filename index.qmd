@@ -37,9 +37,8 @@ On this website, you can find updates on my educational experiences, professiona
 
 ## Hobbies
 
-When I am not in the lab, you can find me looking for new (*read: easy*) trails to hike in Acadia or starting a new creative project. 
+When I am not in the lab, you can find me looking for new (*read: easy*) trails to hike in Acadia or starting a new creative project.
 
 ## News
 
 You can find the latest updates about me [here](updates.html)!
-
