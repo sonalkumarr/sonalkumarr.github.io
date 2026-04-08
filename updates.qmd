@@ -4,6 +4,8 @@ title: "Updates"
 
 ### 2026
 
+-   I presented a poster at the annual Tufts GSBS Neuroscience Retreat, held in Beverly, MA. I was awarded the Service to Neuroscience Award for my involvement with the program and school!
+
 -   I presented a poster at Maine's Society for Neuroscience (SfN) chapter organized at JAX.
 
 -   I attended the Maine IDeA Data Science Conference organized at MDI Biological Laboratory this year, and heard current opinions on how AI is reshaping education and science in today's world.
